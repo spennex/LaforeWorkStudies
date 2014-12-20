@@ -18,6 +18,10 @@
 //Il programma li stampera' leggendo ogni record.
 //
 
+
+//da rivedere .. questa e' solo una possibile soluzione, ma sicuramente non quella giusta
+
+
 #include <fstream>
 #include <iostream>
 #include <cstdlib>
